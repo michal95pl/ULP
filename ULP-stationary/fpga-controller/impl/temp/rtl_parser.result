@@ -1,0 +1,44 @@
+[
+ {
+  "InstFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+  "InstLine" : 1,
+  "InstName" : "led",
+  "ModuleFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "InstLine" : 41,
+    "InstName" : "i88",
+    "ModuleFile" : "C:/Users/michal/Documents/ULP/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "InstLine" : 43,
+    "InstName" : "i89",
+    "ModuleFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "ModuleLine" : 52,
+    "ModuleName" : "PWM"
+   },
+   {
+    "InstFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "InstLine" : 44,
+    "InstName" : "i90",
+    "ModuleFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "ModuleLine" : 52,
+    "ModuleName" : "PWM"
+   },
+   {
+    "InstFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "InstLine" : 45,
+    "InstName" : "i91",
+    "ModuleFile" : "C:/Users/michal/Documents/ULP/src/main.v",
+    "ModuleLine" : 52,
+    "ModuleName" : "PWM"
+   }
+  ]
+ }
+]

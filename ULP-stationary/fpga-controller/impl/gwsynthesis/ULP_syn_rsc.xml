@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led" Register="96" Alu="35" Lut="59">
+    <SubModule name="i220" Register="21" Alu="28" Lut="9"/>
+    <SubModule name="i221" Register="21" Alu="28" Lut="9"/>
+    <SubModule name="i222" Register="21" Alu="28" Lut="9"/>
+</Module>
