@@ -65,7 +65,6 @@ void display_startup_effect (CRGB displayBuffer[], uint8_t brightness) {
 void encode_data(CRGB displayBuffer[], uint16_t data[], uint16_t &length, uint8_t brightness) {
 
   uint16_t i = 4;
-
   for (uint8_t y = 0; y < 8 && i < length; y++) {
     for (uint8_t x = 0; x < 32 && i < length; x++) {
       display_draw_pixel(displayBuffer, x, y, set_display_brightness( CRGB(data[i++], data[i++], data[i++]), brightness) );
@@ -73,7 +72,12 @@ void encode_data(CRGB displayBuffer[], uint16_t data[], uint16_t &length, uint8_
   }
 }
 
-
+void display_clear(CRGB displayBuffer[])
+{
+  for (uint8_t i=0; i < 32; i++)
+    for (uint8_t j=0; j < 8; j++)
+      display_draw_pixel(displayBuffer, i, j, CRGB(0,0,0));
+}
 
 
 
