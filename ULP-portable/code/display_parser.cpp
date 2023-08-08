@@ -9,12 +9,14 @@ void draw_line(CRGB led_strip[], CRGB color, uint8_t x1, uint8_t y1, uint8_t x2,
   // ver
   if (x1 == x2)
   {
-
+    for (uint8_t i=y1; y1<y2? i<=y2 : i>=y2; y1<y2? i+=1 : i-=1)
+      display_draw_pixel(led_strip, x1, i, color);
   }
   // hor
   else if (y1 == y2)
   {
-    
+    for (uint8_t i=x1; x1<x2? i<=x2 : i>=x2; x1<x2? i+=1 : i-=1)
+      display_draw_pixel(led_strip, i, y1, color);
   }
 }
 
@@ -292,12 +294,14 @@ void show_text(CRGB led_strip[], CRGB color, char data[])
         x += 6;
       }
     }
+
     x_slider -= 1;
     timer_save = millis();
 
     FastLED.show();
 
-    if (x_slider < 32)
+    // limit
+    if (x_slider < -32)
       x_slider = 0;
   }
   
