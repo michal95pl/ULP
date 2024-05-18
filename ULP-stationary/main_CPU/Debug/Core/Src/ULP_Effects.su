@@ -1,0 +1,9 @@
+../Core/Src/ULP_Effects.c:11:6:startup_effect_init	16	static
+../Core/Src/ULP_Effects.c:21:9:startup_effect_first	32	static
+../Core/Src/ULP_Effects.c:58:9:startup_effect_second	32	static
+../Core/Src/ULP_Effects.c:75:9:startup_effect_third	40	static
+../Core/Src/ULP_Effects.c:90:9:startup_effect	24	static
+../Core/Src/ULP_Effects.c:110:6:vu_effect	32	static
+../Core/Src/ULP_Effects.c:131:9:linear_a	32	static
+../Core/Src/ULP_Effects.c:143:9:linear_b	24	static
+../Core/Src/ULP_Effects.c:151:6:eq_effect	48	static
