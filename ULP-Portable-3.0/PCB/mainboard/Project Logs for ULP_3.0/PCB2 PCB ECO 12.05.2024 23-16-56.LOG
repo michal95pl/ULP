@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+5V Pin=J1-7-1
+Removed Pin From Net: NetName=VDD_MCU Pin=J1-7-01
+Removed Pin From Net: NetName=+5V Pin=J1-7-2
+Removed Pin From Net: NetName=SWCLK Pin=J1-7-02
+Removed Pin From Net: NetName=GND Pin=J1-7-03
+Removed Pin From Net: NetName=GND Pin=J1-7-3
+Removed Pin From Net: NetName=GND Pin=J1-7-4
+Removed Pin From Net: NetName=SWDIO Pin=J1-7-04
+Removed Pin From Net: NetName=NRST Pin=J1-7-05
+Removed Pin From Net: NetName=SW-LED Pin=J1-7-5
+Removed Pin From Net: NetName=SW1 Pin=J1-7-6
+Removed Pin From Net: NetName=SWO Pin=J1-7-06
+Removed Pin From Net: NetName=SW2 Pin=J1-7-7
+Removed Pin From Net: NetName=SW3 Pin=J1-7-8
+Removed Pin From Net: NetName=GND Pin=J1-7-S1
+Removed Pin From Net: NetName=GND Pin=J1-7-S2
+Removed Pin From Net: NetName=GND Pin=U1-6-41_10
+Removed Pin From Net: NetName=GND Pin=U1-6-41_14
+Change Component Footprint: Designator=J1-7 Old Footprint=MOLEX_5034800800 New Footprint=SAMTEC_TSW-106-07-G-S
+Change Component Footprint: Designator=J1-7 Old Footprint=SAMTEC_TSW-106-07-G-S New Footprint=MOLEX_5034800800
+Change Component Comment : Designator=J1-7 Old Comment=5034800800 New Comment=TSW-106-07-G-S
+Change Component Comment : Designator=J1-7 Old Comment=TSW-106-07-G-S New Comment=5034800800
+Change component parameters: Designator = "J1-7" ("J1-7"); Footprint = "SAMTEC_TSW-106-07-G-S"; UniqueID = "\MZTIPTZV\KVRRROAL" ("\MZTIPTZV\KVRRROAL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "5034800800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1-7" ("J1-7"); Footprint = "MOLEX_5034800800"; UniqueID = "\MZTIPTZV\VAJYKMIS" ("\MZTIPTZV\VAJYKMIS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-106-07-G-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_DP_ESP Pin=J1-3-B6
+Added Pin To Net: NetName=USB_DN_ESP Pin=J1-3-B7
+Added Pin To Net: NetName=+5V Pin=J1-7-1
+Added Pin To Net: NetName=VDD_MCU Pin=J1-7-01
+Added Pin To Net: NetName=+5V Pin=J1-7-2
+Added Pin To Net: NetName=SWCLK Pin=J1-7-02
+Added Pin To Net: NetName=GND Pin=J1-7-03
+Added Pin To Net: NetName=GND Pin=J1-7-3
+Added Pin To Net: NetName=GND Pin=J1-7-4
+Added Pin To Net: NetName=SWDIO Pin=J1-7-04
+Added Pin To Net: NetName=NRST Pin=J1-7-05
+Added Pin To Net: NetName=SW-LED Pin=J1-7-5
+Added Pin To Net: NetName=SW1 Pin=J1-7-6
+Added Pin To Net: NetName=SWO Pin=J1-7-06
+Added Pin To Net: NetName=SW2 Pin=J1-7-7
+Added Pin To Net: NetName=SW3 Pin=J1-7-8
+Added Pin To Net: NetName=GND Pin=J1-7-S1
+Added Pin To Net: NetName=GND Pin=J1-7-S2
+Added Pin To Net: NetName=USB-DN-STM32 Pin=J1-3-A7
+Added Pin To Net: NetName=USB-DN-STM32 Pin=U1-7-70
+Added Net: Name=USB-DN-STM32
+Added Pin To Net: NetName=USB-DP-STM32 Pin=J1-3-A6
+Added Pin To Net: NetName=USB-DP-STM32 Pin=U1-7-71
+Added Net: Name=USB-DP-STM32
+Added Member To Class: ClassName=U_stm32 Member=Component J1-7 TSW-106-07-G-S

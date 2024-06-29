@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=DIS1-CH0 Pin=U1-7-30
+Added Pin To Net: NetName=DIS1-CH1 Pin=U1-7-31
+Added Pin To Net: NetName=DIS1-CH2 Pin=U1-7-34
+Added Pin To Net: NetName=DIS1-CH3 Pin=U1-7-35
+Added Pin To Net: NetName=DIS0-CH0 Pin=U1-7-39
+Added Pin To Net: NetName=DIS0-CH1 Pin=U1-7-41
+Added Pin To Net: NetName=DIS0-CH2 Pin=U1-7-43
+Added Pin To Net: NetName=DIS0-CH3 Pin=U1-7-44
+Add Net: Net with name "#current-fault" already exists
+Add Net: Net with name "current-0" already exists
+Add Net: Net with name "current-1" already exists
+Add Net: Net with name "current-2" already exists
+Add Net: Net with name "E28-Power" already exists
+Add Net: Net with name "MISO-ESP32" already exists
+Add Net: Net with name "MOSI-ESP32" already exists
+Add Net: Net with name "PD-FAULT" already exists
+Add Net: Net with name "PG-STM_VDD" already exists
+Add Net: Net with name "RX1-ESP32" already exists
+Add Net: Net with name "SCK-ESP32" already exists
+Add Net: Net with name "SCL-ESP32" already exists
+Add Net: Net with name "SDA-ESP32" already exists
+Add Net: Net with name "TX1-ESP32" already exists

@@ -1,0 +1,12 @@
+Added Component: Designator=U1-5(VREG_TPSM84209RKHT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPSM84209RKHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1-5_1 Pin=U1-5-1
+Added Pin To Net: NetName=USB-VCC Pin=U1-5-2
+Added Pin To Net: NetName=+3V3 Pin=U1-5-3
+Added Pin To Net: NetName=GND Pin=U1-5-8
+Added Member To Class: ClassName=U_BuckRegulator-3V Member=Component U1-5 TPSM84209RKHT

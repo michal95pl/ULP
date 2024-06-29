@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=U_stm32 Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J1-7
+Added Member To Class: ClassName=U_stm32 Member=Component J1-7 TSW-106-07-G-S

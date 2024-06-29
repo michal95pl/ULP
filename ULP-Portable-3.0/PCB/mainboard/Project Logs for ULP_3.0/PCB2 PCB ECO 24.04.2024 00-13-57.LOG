@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=H_OSC_IN Pin=C2-7-2
+Added Pin To Net: NetName=H_OSC_IN Pin=Y1-7-1
+Add Net: Net with name "#current-fault" already exists
+Add Net: Net with name "current-0" already exists
+Add Net: Net with name "current-1" already exists
+Add Net: Net with name "current-2" already exists
+Add Net: Net with name "E28-Power" already exists
+Add Net: Net with name "MISO-ESP32" already exists
+Add Net: Net with name "MOSI-ESP32" already exists
+Add Net: Net with name "PD-FAULT" already exists
+Add Net: Net with name "PG-STM_VDD" already exists
+Add Net: Net with name "RX1-ESP32" already exists
+Add Net: Net with name "SCK-ESP32" already exists
+Add Net: Net with name "SCL-ESP32" already exists
+Add Net: Net with name "SDA-ESP32" already exists
+Add Net: Net with name "TX1-ESP32" already exists

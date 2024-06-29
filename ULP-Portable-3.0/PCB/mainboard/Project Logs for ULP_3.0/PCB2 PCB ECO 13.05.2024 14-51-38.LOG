@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VDD_MCU Pin=J1-7-01
+Removed Pin From Net: NetName=SWCLK Pin=J1-7-02
+Removed Pin From Net: NetName=GND Pin=J1-7-03
+Removed Pin From Net: NetName=SWDIO Pin=J1-7-04
+Removed Pin From Net: NetName=NRST Pin=J1-7-05
+Removed Pin From Net: NetName=SWO Pin=J1-7-06
+Added Component: Designator=J?(SAMTEC_TSW-107-07-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-107-07-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_MCU Pin=J?-01
+Added Pin To Net: NetName=SWCLK Pin=J?-02
+Added Pin To Net: NetName=GND Pin=J?-03
+Added Pin To Net: NetName=SWDIO Pin=J?-04
+Added Pin To Net: NetName=NRST Pin=J?-05
+Added Pin To Net: NetName=SWO Pin=J?-06
+Added Pin To Net: NetName=BOOT0 Pin=J?-07
+Added Pin To Net: NetName=BOOT0 Pin=U1-7-94
+Added Net: Name=BOOT0
+Added Member To Class: ClassName=U_stm32 Member=Component J? TSW-107-07-G-S

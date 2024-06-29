@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=U1-6-41_13
+Change Component Footprint: Designator=U2-8 Old Footprint=FP-DRV0006C-MFG New Footprint=FP-DRV0006C-IPC_C
+Change Component Footprint: Designator=D1-3 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
+Change Component Footprint: Designator=D1-5 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
+Change Component Footprint: Designator=D1-8 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
+Added Member To Class: ClassName=U_stm32 Member=Component J1-7 TSW-106-07-G-S

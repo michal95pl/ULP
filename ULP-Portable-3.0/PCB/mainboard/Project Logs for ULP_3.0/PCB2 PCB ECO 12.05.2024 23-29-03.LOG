@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=USB-DN-STM32 New Net Name=USB-STM32_N
+Change Net Name : Old Net Name=USB-DP-STM32 New Net Name=USB-STM32_P
+Change Net Name : Old Net Name=USB_DN_ESP New Net Name=USB-ESP_N
+Change Net Name : Old Net Name=USB_DP_ESP New Net Name=USB-ESP_P
+Added Member To Class: ClassName=U_stm32 Member=Component J1-7 TSW-106-07-G-S

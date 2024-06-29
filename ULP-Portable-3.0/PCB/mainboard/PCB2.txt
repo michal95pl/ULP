@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\ULP-3.0\PCB2.PcbDoc
+Date         : 13.05.2024
+Time         : 15:48:28
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99,75%
+    Connections, 402
+    Connections routed, 401
+    Connections remaining, 1
+count : 4

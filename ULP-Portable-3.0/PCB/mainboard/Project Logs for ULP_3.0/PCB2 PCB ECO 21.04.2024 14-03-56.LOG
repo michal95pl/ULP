@@ -1,0 +1,282 @@
+Added Component: Designator=C1-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5-3(CAPC2012X140N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samsung Electro-Mechanics'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21A475KBQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10-3(CAPC1608X94N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'KYOCERA AVX Components Corporation'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06035C105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1-3(GCT_USB4105-GF-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'GCT'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4105-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1-3(RESC1608X55X25ML10T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2-3(RESC1608X55X25ML10T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.4k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3-3(RESC1608X55X25ML10T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4-3(RESC1608X55X25ML10T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.4k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5-3(RES_ERJ-3GEY0R00V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6-3(RESC1607X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7-3(RES_ERJ-3GEY0R00V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8-3(RESC1607X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9-3(RES_ERJ3EKF1001V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10-3(RES_ERJ3EKF1001V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1-3(FP-002-16934-IPC_C)
+Added Component: Designator=U2-3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Infineon'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF9358TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3-3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Infineon'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF9358TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-3-2
+Added Pin To Net: NetName=GND Pin=C2-3-2
+Added Pin To Net: NetName=GND Pin=C3-3-2
+Added Pin To Net: NetName=GND Pin=C4-3-2
+Added Pin To Net: NetName=GND Pin=C5-3-1
+Added Pin To Net: NetName=GND Pin=C6-3-2
+Added Pin To Net: NetName=+5V Pin=C8-3-2
+Added Pin To Net: NetName=GND Pin=J1-3-A1_B12
+Added Pin To Net: NetName=GND Pin=J1-3-B1_A12
+Added Pin To Net: NetName=GND Pin=J1-3-SH1
+Added Pin To Net: NetName=GND Pin=J1-3-SH2
+Added Pin To Net: NetName=GND Pin=J1-3-SH3
+Added Pin To Net: NetName=GND Pin=J1-3-SH4
+Added Pin To Net: NetName=GND Pin=R2-3-1
+Added Pin To Net: NetName=GND Pin=R4-3-1
+Added Pin To Net: NetName=GND Pin=U1-3-5
+Added Pin To Net: NetName=GND Pin=U1-3-19
+Added Pin To Net: NetName=GND Pin=U1-3-22
+Added Pin To Net: NetName=GND Pin=U1-3-25
+Added Pin To Net: NetName=+5V Pin=U2-3-5
+Added Pin To Net: NetName=+5V Pin=U2-3-6
+Added Pin To Net: NetName=+3V3-1 Pin=C2-3-1
+Added Pin To Net: NetName=+3V3-1 Pin=C3-3-1
+Added Pin To Net: NetName=+3V3-1 Pin=C4-3-1
+Added Pin To Net: NetName=+3V3-1 Pin=R1-3-2
+Added Pin To Net: NetName=+3V3-1 Pin=R3-3-2
+Added Pin To Net: NetName=+3V3-1 Pin=U1-3-2
+Added Pin To Net: NetName=+3V3-1 Pin=U1-3-23
+Added Net: Name=+3V3-1
+Added Pin To Net: NetName=CC1 Pin=J1-3-A5
+Added Pin To Net: NetName=CC1 Pin=U1-3-15
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=J1-3-B5
+Added Pin To Net: NetName=CC2 Pin=U1-3-14
+Added Net: Name=CC2
+Added Pin To Net: NetName=NetC1-3_1 Pin=C1-3-1
+Added Pin To Net: NetName=NetC1-3_1 Pin=U1-3-24
+Added Net: Name=NetC1-3_1
+Added Pin To Net: NetName=NetC7-3_1 Pin=C7-3-1
+Added Pin To Net: NetName=NetC7-3_1 Pin=C8-3-1
+Added Pin To Net: NetName=NetC7-3_1 Pin=R5-3-1
+Added Pin To Net: NetName=NetC7-3_1 Pin=R6-3-1
+Added Pin To Net: NetName=NetC7-3_1 Pin=R9-3-2
+Added Net: Name=NetC7-3_1
+Added Pin To Net: NetName=NetC9-3_1 Pin=C9-3-1
+Added Pin To Net: NetName=NetC9-3_1 Pin=C10-3-1
+Added Pin To Net: NetName=NetC9-3_1 Pin=R7-3-1
+Added Pin To Net: NetName=NetC9-3_1 Pin=R8-3-1
+Added Pin To Net: NetName=NetC9-3_1 Pin=R10-3-2
+Added Net: Name=NetC9-3_1
+Added Pin To Net: NetName=NetR1-3_1 Pin=R1-3-1
+Added Pin To Net: NetName=NetR1-3_1 Pin=R2-3-2
+Added Pin To Net: NetName=NetR1-3_1 Pin=U1-3-6
+Added Net: Name=NetR1-3_1
+Added Pin To Net: NetName=NetR3-3_1 Pin=R3-3-1
+Added Pin To Net: NetName=NetR3-3_1 Pin=R4-3-2
+Added Pin To Net: NetName=NetR3-3_1 Pin=U1-3-1
+Added Net: Name=NetR3-3_1
+Added Pin To Net: NetName=NetR5-3_2 Pin=R5-3-2
+Added Pin To Net: NetName=NetR5-3_2 Pin=U2-3-2
+Added Pin To Net: NetName=NetR5-3_2 Pin=U2-3-4
+Added Net: Name=NetR5-3_2
+Added Pin To Net: NetName=NetR7-3_2 Pin=R7-3-2
+Added Pin To Net: NetName=NetR7-3_2 Pin=U3-3-2
+Added Pin To Net: NetName=NetR7-3_2 Pin=U3-3-4
+Added Net: Name=NetR7-3_2
+Added Pin To Net: NetName=NetU2-3_1 Pin=U2-3-1
+Added Pin To Net: NetName=NetU2-3_1 Pin=U2-3-3
+Added Net: Name=NetU2-3_1
+Added Pin To Net: NetName=NetU3-3_1 Pin=U3-3-1
+Added Pin To Net: NetName=NetU3-3_1 Pin=U3-3-3
+Added Net: Name=NetU3-3_1
+Added Pin To Net: NetName=PD-FAULT Pin=U1-3-9
+Added Net: Name=PD-FAULT
+Added Pin To Net: NetName=PD_VCC Pin=C10-3-2
+Added Pin To Net: NetName=PD_VCC Pin=U1-3-11
+Added Pin To Net: NetName=PD_VCC Pin=U3-3-5
+Added Pin To Net: NetName=PD_VCC Pin=U3-3-6
+Added Net: Name=PD_VCC
+Added Pin To Net: NetName=SCL-ESP32 Pin=U1-3-13
+Added Net: Name=SCL-ESP32
+Added Pin To Net: NetName=SDA-ESP32 Pin=U1-3-12
+Added Net: Name=SDA-ESP32
+Added Pin To Net: NetName=USB-VCC Pin=C5-3-2
+Added Pin To Net: NetName=USB-VCC Pin=C6-3-1
+Added Pin To Net: NetName=USB-VCC Pin=C7-3-2
+Added Pin To Net: NetName=USB-VCC Pin=C9-3-2
+Added Pin To Net: NetName=USB-VCC Pin=J1-3-A4_B9
+Added Pin To Net: NetName=USB-VCC Pin=J1-3-B4_A9
+Added Pin To Net: NetName=USB-VCC Pin=R6-3-2
+Added Pin To Net: NetName=USB-VCC Pin=R8-3-2
+Added Pin To Net: NetName=USB-VCC Pin=U1-3-18
+Added Pin To Net: NetName=USB-VCC Pin=U2-3-7
+Added Pin To Net: NetName=USB-VCC Pin=U2-3-8
+Added Pin To Net: NetName=USB-VCC Pin=U3-3-7
+Added Pin To Net: NetName=USB-VCC Pin=U3-3-8
+Added Net: Name=USB-VCC
+Added Pin To Net: NetName=VBUS_FET_EN Pin=R10-3-1
+Added Pin To Net: NetName=VBUS_FET_EN Pin=U1-3-3
+Added Net: Name=VBUS_FET_EN
+Added Pin To Net: NetName=VSAFE_FET_EN Pin=R9-3-1
+Added Pin To Net: NetName=VSAFE_FET_EN Pin=U1-3-4
+Added Net: Name=VSAFE_FET_EN
+Added Class: Name=U_USB-PD

@@ -1,0 +1,26 @@
+Added Component: Designator=J?(MOLEX_5034800800)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5034800800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J?-1
+Added Pin To Net: NetName=+5V Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=SW1 Pin=J?-6
+Added Pin To Net: NetName=SW1 Pin=U1-7-54
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=J?-7
+Added Pin To Net: NetName=SW2 Pin=U1-7-55
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=J?-8
+Added Pin To Net: NetName=SW3 Pin=U1-7-56
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW-LED Pin=J?-5
+Added Pin To Net: NetName=SW-LED Pin=U1-7-53
+Added Net: Name=SW-LED
+Added Member To Class: ClassName=U_stm32 Member=Component J? 5034800800

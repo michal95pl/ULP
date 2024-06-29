@@ -1,0 +1,36 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ULP_3.0.PrjPcb]
+   Generated File[PCB2_Copper_Signal_Top.gbr]
+   Generated File[PCB2_Copper_Signal_1.gbr]
+   Generated File[PCB2_Copper_Signal_2.gbr]
+   Generated File[PCB2_Copper_Signal_Bot.gbr]
+   Generated File[PCB2_Pads_Bot.gbr]
+   Generated File[PCB2_Pads_Top.gbr]
+   Generated File[PCB2_Legend_Top.gbr]
+   Generated File[PCB2_Soldermask_Top.gbr]
+   Generated File[PCB2_Soldermask_Bot.gbr]
+   Generated File[PCB2_Paste_Top.gbr]
+   Generated File[PCB2_Paste_Bot.gbr]
+   Generated File[PCB2_Mechanical_1.gbr]
+   Generated File[PCB2_Top_3D_Body.gbr]
+   Generated File[PCB2_Top_Courtyard.gbr]
+   Generated File[PCB2_Top_Designator.gbr]
+   Generated File[PCB2_Top_Assembly.gbr]
+   Generated File[PCB2_Top_Component_Outline.gbr]
+   Generated File[PCB2_Mechanical_13.gbr]
+   Generated File[PCB2_Mechanical_15.gbr]
+   Generated File[PCB2_Top_Component_Center.gbr]
+   Generated File[PCB2_Profile.gbr]
+   Generated File[PCB2_NPTH_Drill.gbr]
+   Generated File[PCB2_PTH_Drill.gbr]
+   Generated File[PCB2_Drawing_1.gbr]
+   Generated File[PCB2_Drillmap_1.gbr]
+   Generated File[PCB2.EXTREP]
+   Generated File[PCB2.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 15:47:10 On 13.05.2024
