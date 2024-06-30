@@ -1,5 +1,5 @@
 # ULP Portable 3.0
-The new version of ULP Portable with powerfull STM32 H7 core.
+The new version of ULP Portable with powerfull STM32 M7 core.
 
 
 ## Features
