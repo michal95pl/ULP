@@ -18,10 +18,16 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "dma.h"
+#include "tim.h"
+#include "usb_device.h"
+#include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "ULP_ws2812b.h"
+#include "ULP_strip_effects.h"
+#include "ULP_utilities.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -54,6 +60,14 @@ static void MPU_Config(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+
+volatile uint8_t dma_flag = 0;
+
+void HAL_TIM_PWM_PulseFinishedCallback(TIM_HandleTypeDef *htim)
+{
+	HAL_TIM_PWM_Stop(htim, TIM_CHANNEL_1);
+	dma_flag = 0;
+}
 
 /* USER CODE END 0 */
 
@@ -88,7 +102,39 @@ int main(void)
   /* USER CODE END SysInit */
 
   /* Initialize all configured peripherals */
+  MX_GPIO_Init();
+  MX_DMA_Init();
+  MX_USB_DEVICE_Init();
+  MX_TIM1_Init();
   /* USER CODE BEGIN 2 */
+
+  uint8_t color_array[21][3];
+  uint16_t pixel_bit_buffer[(21 * 24) + 45];
+
+
+
+  strip_startup_init();
+  clear_led_strip(color_array, 21);
+
+  while(1)
+  {
+	  color_array_to_pixels(color_array, pixel_bit_buffer, 21, 100);
+	  if (!run_strip_startup_effect(color_array, 21))
+		  break;
+
+	  while(dma_flag);
+	  HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_1, (uint32_t*)pixel_bit_buffer, buffer_size(21));
+	  dma_flag = 1;
+
+	  HAL_Delay(25);
+  }
+
+
+  get_gradient(0, 0, 255, 255, 0, 0, color_array, 21);
+
+  color_array_to_pixels(color_array, pixel_bit_buffer, 21, 100);
+  HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_1, (uint32_t*)pixel_bit_buffer, buffer_size(21));
+  while(dma_flag);
 
   /* USER CODE END 2 */
 
@@ -96,6 +142,12 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  move_pixel_right(color_array, 21);
+	  color_array_to_pixels(color_array, pixel_bit_buffer, 21, 100);
+	  HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_1, (uint32_t*)pixel_bit_buffer, buffer_size(21));
+	  while(dma_flag);
+	  HAL_Delay(20);
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -125,10 +177,20 @@ void SystemClock_Config(void)
   /** Initializes the RCC Oscillators according to the specified parameters
   * in the RCC_OscInitTypeDef structure.
   */
-  RCC_OscInitStruct.OscillatorType = RCC_OSCILLATORTYPE_HSI;
+  RCC_OscInitStruct.OscillatorType = RCC_OSCILLATORTYPE_HSI|RCC_OSCILLATORTYPE_HSE;
+  RCC_OscInitStruct.HSEState = RCC_HSE_ON;
   RCC_OscInitStruct.HSIState = RCC_HSI_DIV1;
   RCC_OscInitStruct.HSICalibrationValue = 64;
-  RCC_OscInitStruct.PLL.PLLState = RCC_PLL_NONE;
+  RCC_OscInitStruct.PLL.PLLState = RCC_PLL_ON;
+  RCC_OscInitStruct.PLL.PLLSource = RCC_PLLSOURCE_HSE;
+  RCC_OscInitStruct.PLL.PLLM = 5;
+  RCC_OscInitStruct.PLL.PLLN = 48;
+  RCC_OscInitStruct.PLL.PLLP = 2;
+  RCC_OscInitStruct.PLL.PLLQ = 5;
+  RCC_OscInitStruct.PLL.PLLR = 2;
+  RCC_OscInitStruct.PLL.PLLRGE = RCC_PLL1VCIRANGE_2;
+  RCC_OscInitStruct.PLL.PLLVCOSEL = RCC_PLL1VCOWIDE;
+  RCC_OscInitStruct.PLL.PLLFRACN = 0;
   if (HAL_RCC_OscConfig(&RCC_OscInitStruct) != HAL_OK)
   {
     Error_Handler();

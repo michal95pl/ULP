@@ -1,0 +1,5 @@
+../Core/Src/ULP_strip_effects.c:13:6:strip_startup_init	1
+../Core/Src/ULP_strip_effects.c:19:9:run_strip_startup_effect	9
+../Core/Src/ULP_strip_effects.c:87:9:gradient_function	1
+../Core/Src/ULP_strip_effects.c:100:6:get_gradient	2
+../Core/Src/ULP_strip_effects.c:110:6:move_pixel_right	3

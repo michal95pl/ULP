@@ -1,0 +1,7 @@
+../Core/Src/ULP_ws2812b.c:3:10:colorPixel	7
+../Core/Src/ULP_ws2812b.c:35:9:convert_brightness	1
+../Core/Src/ULP_ws2812b.c:45:6:color_array_to_pixels	3
+../Core/Src/ULP_ws2812b.c:59:6:set_color_strip	2
+../Core/Src/ULP_ws2812b.c:69:6:clear_led_strip	1
+../Core/Src/ULP_ws2812b.c:74:6:set_color	1
+../Core/Src/ULP_ws2812b.c:84:10:buffer_size	1

@@ -25,4 +25,18 @@ void loop() {
   if (error_code != 0)
    Serial.println(error_code);
 
+  float current_real = 0;
+
+  for (uint8_t i=0; i < 5; i++)
+  {
+    float voltage = analogRead(8) * (3.3/4095.0);
+    float current = 9.226 * voltage - 14.946;
+    current_real += current;
+    delay(100);
+  }
+  
+  Serial.println(current_real / 5);
+
+  delay(500);
+
 }
